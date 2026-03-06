@@ -1,1 +1,2 @@
 docker images
+docker run -p 8080:80 ghcr.io/keerthana-ust/skills-publish-docker-images/stackoverflown:main
