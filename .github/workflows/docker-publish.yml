@@ -1,1 +1,1 @@
-docker pull ghcr.io/keerthana-ust/skills-publish-docker-images/stackoverflown:main
+docker images
